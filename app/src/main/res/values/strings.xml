@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitHubProject</string>
+    <string name="str_txt_github">GitHub Testing project</string>
 </resources>
