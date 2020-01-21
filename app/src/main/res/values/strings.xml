@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">GitHubProject</string>
     <string name="str_txt_github">GitHub Testing project</string>
+    <string name="str_txt_textview">This is text view</string>
 </resources>
